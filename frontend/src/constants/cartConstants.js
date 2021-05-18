@@ -1,0 +1,1 @@
+export const CART_ADD_ITEM_FAIL = 'CART_ADD_ITEM_FAIL';
